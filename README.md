@@ -17,9 +17,9 @@
    
    ##
 
-<div align="center" style="display: inline_block"><br>
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<div align="center">
+   <img src="https://img.shields.io/badge/HTML5-EF9700?style=for-the-badge&logo=HTML5&logoColor=black">
+   <img src="https://img.shields.io/badge/CSS3-1775D2?style=for-the-badge&logo=CSS3&logoColor=black">
+   <img src="https://img.shields.io/badge/JavaScript-EFE700?style=for-the-badge&logo=Javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/Python-1775D2?style=for-the-badge&logo=Python&logoColor=black">
 </div>
