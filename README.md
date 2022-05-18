@@ -6,8 +6,6 @@
     <a href="www.linkedin.com/in/sarahcnog" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
      </div>
 
-    ##
-
 <div align="center">
    <img src="https://img.shields.io/badge/HTML5-EF9700?style=for-the-badge&logo=HTML5&logoColor=black">
    <img src="https://img.shields.io/badge/CSS3-1775D2?style=for-the-badge&logo=CSS3&logoColor=black">
