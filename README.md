@@ -1,5 +1,7 @@
 ### Oiii.. Meu nome é Sarah (she/her), sou do Brasil e Engenheira de formação. Atualmente estou buscando novos conhecimentos no Universo da Programação ☺️
 
+### Hi.. My name is Sarah (she/her), I'm from Brazil and I'm an Engineer by profession. Currently, I'm seeking new knowledge in the Programming Universe ☺️
+
   <div align="center"> 
    <a href="mailto:sarahcnog@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-C71F1F?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://codepen.io/sarahcastronog" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=Codepen&logoColor=white" target="_blank"></a> 
